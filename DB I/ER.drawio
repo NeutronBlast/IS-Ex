@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-20T21:24:12.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="zytB6QF41k0mHBlWpILf" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-20T21:27:43.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="6K_CAZrzIF8Wz33h2KMi" version="12.1.3" type="github" pages="1">
   <diagram id="Lb_0midmeld865azdvVX" name="Page-1">
     <mxGraphModel dx="828" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,11 +183,33 @@
             <mxPoint x="660" y="1395" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
+        <mxCell id="x2IHKYKo0Ygv0OIkCN_u-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="x2IHKYKo0Ygv0OIkCN_u-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1400" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1000" y="1400"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x2IHKYKo0Ygv0OIkCN_u-65" value="ESPACIO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="740" y="1335" width="160" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="x2IHKYKo0Ygv0OIkCN_u-66" value="#* id&#xa;* nombre&#xa;* tipo&#xa;* capacidad&#xa;* número" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="x2IHKYKo0Ygv0OIkCN_u-65">
           <mxGeometry y="26" width="160" height="94" as="geometry"/>
+        </mxCell>
+        <mxCell id="x2IHKYKo0Ygv0OIkCN_u-71" value="HORARIO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1350" width="160" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="x2IHKYKo0Ygv0OIkCN_u-72" value="#* id&#xa;* fecha de inicio&#xa;* fecha fin" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="x2IHKYKo0Ygv0OIkCN_u-71">
+          <mxGeometry y="26" width="160" height="94" as="geometry"/>
+        </mxCell>
+        <mxCell id="x2IHKYKo0Ygv0OIkCN_u-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="x2IHKYKo0Ygv0OIkCN_u-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="1400" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1000" y="1400"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
