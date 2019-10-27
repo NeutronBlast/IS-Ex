@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-27T14:12:53.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="nNqqb49h0xn4pGn1q-hX" version="12.1.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-27T14:25:07.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36 OPR/63.0.3368.107" etag="xRii1u5jBDTclFJykzDN" version="12.1.7" type="github" pages="1">
   <diagram id="g-K5pwejZ-qYwhQE_Ga-" name="Page-1">
     <mxGraphModel dx="828" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -267,6 +267,11 @@
         <mxCell id="69_leHM3C10nOmQzFwsW-130" value="CRUD obras actuadas" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="740" width="140" height="78" as="geometry"/>
         </mxCell>
+        <mxCell id="wNnI5UrZnDWyy2dCB8MJ-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="69_leHM3C10nOmQzFwsW-131" target="wNnI5UrZnDWyy2dCB8MJ-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="1108" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="69_leHM3C10nOmQzFwsW-131" value="CRUD personajes" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1069" width="140" height="78" as="geometry"/>
         </mxCell>
@@ -361,6 +366,12 @@
         </mxCell>
         <mxCell id="wNnI5UrZnDWyy2dCB8MJ-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="815" y="-260" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="wNnI5UrZnDWyy2dCB8MJ-36" value="Solicitar pesonaje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1069" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="wNnI5UrZnDWyy2dCB8MJ-37" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1080" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
