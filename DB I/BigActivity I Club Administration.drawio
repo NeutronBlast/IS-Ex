@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-31T04:50:45.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="W33xOeugTaifLgy_G35L" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-31T04:59:27.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="xqpXm_7XvoClHVxn0n_0" version="12.1.9" type="github" pages="1">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1024" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -104,11 +104,23 @@
         <mxCell id="n3SkGMCZbg7LG-9alkwq-115" value="Cliquea &quot;Explorar grupos de lectura&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="15" y="2690" width="145" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1c1d494c118603dd-2" source="n3SkGMCZbg7LG-9alkwq-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="2850" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="245" y="2830"/>
+              <mxPoint x="810" y="2830"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n3SkGMCZbg7LG-9alkwq-116" value="Cliquea &quot;Crear grupo de lectura&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="172.5" y="2730" width="145" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="n3SkGMCZbg7LG-9alkwq-119" value="Cliquea &quot;Cerrar&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
           <mxGeometry x="330" y="2690" width="145" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-125" value="Rellena datos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="220" y="2940" width="106" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="n3SkGMCZbg7LG-9alkwq-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" source="n3SkGMCZbg7LG-9alkwq-3" target="n3SkGMCZbg7LG-9alkwq-12">
           <mxGeometry relative="1" as="geometry"/>
@@ -353,6 +365,47 @@
         </mxCell>
         <mxCell id="n3SkGMCZbg7LG-9alkwq-121" value="Datos grupo de lectura incluye los libros analizados" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1c1d494c118603dd-4">
           <mxGeometry x="500" y="780" width="140" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1c1d494c118603dd-4" source="n3SkGMCZbg7LG-9alkwq-124" target="n3SkGMCZbg7LG-9alkwq-129">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-124" value="Muestra interfaz formulario grupo de lectura" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="230" y="2850" width="162" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1c1d494c118603dd-4" source="n3SkGMCZbg7LG-9alkwq-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="3020" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="380" y="3000"/>
+              <mxPoint x="380" y="3020"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-129" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="190" y="2950" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-132" value="Datos son inválidos" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="65" y="2980" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-133" value="Esto es para no seguir repitiendo" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="85" y="2925" width="100" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-140" value="Datos son válidos" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="275" y="2975" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-142" value="Muestra mensaje &quot;grupo creado con éxito&quot;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;arcSize=50;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="300" y="3020" width="162" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1c1d494c118603dd-1" source="n3SkGMCZbg7LG-9alkwq-124" target="n3SkGMCZbg7LG-9alkwq-125">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3SkGMCZbg7LG-9alkwq-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="n3SkGMCZbg7LG-9alkwq-129" target="n3SkGMCZbg7LG-9alkwq-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="3020" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="273" y="3020"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="n3SkGMCZbg7LG-9alkwq-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n3SkGMCZbg7LG-9alkwq-5">
           <mxGeometry relative="1" as="geometry">
