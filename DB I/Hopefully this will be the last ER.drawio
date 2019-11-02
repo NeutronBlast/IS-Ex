@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-02T15:58:21.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="977pgZXmBnyra91bnfiW" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-02T16:03:05.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="h-XBC8vbWxdRI2IdKNQ4" version="12.1.9" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1680" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -594,6 +594,41 @@
         </mxCell>
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-175" value="#* id&#xa;* número&#xa;* nombre&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="sQQmF4ldZeJKrUhW-fq7-174">
           <mxGeometry y="22" width="140" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-178" value="Tiene" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="400" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-179" value="Tiene" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="450" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-180" value="Tiene" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="980" y="554" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-183" value="Pertenece a" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="950" y="690" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-184" value="Publicado por" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="554" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-185" value="Moneda" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="170" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-187" value="#* id&#xa;* nombre&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="sQQmF4ldZeJKrUhW-fq7-185">
+          <mxGeometry y="22" width="150" height="58" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=ERmany;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="sQQmF4ldZeJKrUhW-fq7-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="906" y="211" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-189" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="905" y="213.5" as="sourcePoint"/>
+            <mxPoint x="989" y="212" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-190" value="Tiene" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="935" y="195" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
