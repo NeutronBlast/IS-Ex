@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-02T15:53:46.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="Kh3lTxYiSbD89gZiVl0G" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-02T15:58:21.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="977pgZXmBnyra91bnfiW" version="12.1.9" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1680" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -567,6 +567,33 @@
         </mxCell>
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-169" value="Predecesor" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;rotation=40;" vertex="1" parent="1">
           <mxGeometry x="1150" y="320" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-171" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="sQQmF4ldZeJKrUhW-fq7-133">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="471" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-176" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;strokeColor=#000000;" edge="1" parent="1" target="sQQmF4ldZeJKrUhW-fq7-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="390" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-177" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;dashed=1;" edge="1" parent="1" source="sQQmF4ldZeJKrUhW-fq7-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="390" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-172" value="Capítulo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="428" width="140" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-173" value="#* id&#xa;* tipo de numeración&#xa;* número&#xa;* nombre&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="sQQmF4ldZeJKrUhW-fq7-172">
+          <mxGeometry y="22" width="140" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-174" value="Sección" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="248" width="140" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-175" value="#* id&#xa;* número&#xa;* nombre&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="sQQmF4ldZeJKrUhW-fq7-174">
+          <mxGeometry y="22" width="140" height="78" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
