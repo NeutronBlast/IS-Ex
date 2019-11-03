@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-03T21:43:27.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="sWSjLiAiKAi9P2YdKntc" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-03T21:48:58.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="CQ4nhhsQmFh7jFAwOl5O" version="12.1.9" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1874" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -773,10 +773,10 @@
         <mxCell id="yUuT4NI_DrZhigZ8Hj7e-4" value="Puede emitir" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-158" y="-652" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="yUuT4NI_DrZhigZ8Hj7e-8" value="" style="endArrow=none;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" parent="1" source="sQQmF4ldZeJKrUhW-fq7-19" edge="1">
+        <mxCell id="yUuT4NI_DrZhigZ8Hj7e-8" value="" style="endArrow=ERmany;dashed=1;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;endFill=0;" parent="1" source="sQQmF4ldZeJKrUhW-fq7-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-123" y="-650" as="sourcePoint"/>
-            <mxPoint x="-63" y="-705" as="targetPoint"/>
+            <mxPoint x="-3" y="-705" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="-3" y="-629"/>
               <mxPoint x="-3" y="-705"/>
