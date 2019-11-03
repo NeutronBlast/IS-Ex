@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-03T20:12:05.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="bbgIHnK5qG5fvdKvk_W0" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-03T20:13:34.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="yc6Lt11rwS63me4CcEPv" version="12.1.9" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1851" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -562,8 +562,8 @@
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-167" value="Publicado en" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="855" y="390" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="sQQmF4ldZeJKrUhW-fq7-169" value="Predecedido por" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;rotation=40;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="332" width="100" height="20" as="geometry"/>
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-169" value="Es predecedido por" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;rotation=40;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="332" width="120" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-171" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=ERmany;endFill=0;strokeColor=#000000;" parent="1" source="sQQmF4ldZeJKrUhW-fq7-133" edge="1">
           <mxGeometry relative="1" as="geometry">
