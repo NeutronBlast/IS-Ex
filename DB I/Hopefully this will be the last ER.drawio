@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-03T21:26:59.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="wgs2B9ueWIdpc_zKd8ek" version="12.1.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-03T21:28:11.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="2C1z5NTZccLYWQAD9u6l" version="12.1.9" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1874" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             <Array as="points">
               <mxPoint x="-360" y="-670"/>
               <mxPoint x="-360" y="-1040"/>
-              <mxPoint x="-19" y="-1040"/>
+              <mxPoint x="-4" y="-1040"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -630,6 +630,14 @@
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-190" value="Tiene" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="192" y="-535" width="40" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="UAHOsp1mP3vzKwPEXrRI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="sQQmF4ldZeJKrUhW-fq7-191" target="UAHOsp1mP3vzKwPEXrRI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="-668"/>
+              <mxPoint x="310" y="-1102"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-191" value="Obra" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="387" y="-718.5" width="140" height="100" as="geometry"/>
         </mxCell>
@@ -865,8 +873,8 @@
         <mxCell id="UAHOsp1mP3vzKwPEXrRI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UAHOsp1mP3vzKwPEXrRI-14" target="sQQmF4ldZeJKrUhW-fq7-199">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="UAHOsp1mP3vzKwPEXrRI-14" value="P_HP_L (Personaje_Presentación_Lector)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-158" y="-1170" width="278" height="90" as="geometry"/>
+        <mxCell id="UAHOsp1mP3vzKwPEXrRI-14" value="P_HP_L_O (Personaje_Presentación_Lector_Obra)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-1170" width="330" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
