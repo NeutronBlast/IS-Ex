@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-04T23:48:11.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="3xn1pYU00jHkEXnlt6X8" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T02:51:48.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="h2MT6u4QJmt4SsleuWY-" version="12.2.0" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1874" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -412,7 +412,7 @@
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-128" value="Lista favoritos (L_L)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-53" y="-292" width="130" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="yskIC6jVjKpPpN66km2W-1" value="o preferencia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="sQQmF4ldZeJKrUhW-fq7-128">
+        <mxCell id="yskIC6jVjKpPpN66km2W-1" value="o preferencia" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="sQQmF4ldZeJKrUhW-fq7-128" vertex="1">
           <mxGeometry y="22" width="130" height="58" as="geometry"/>
         </mxCell>
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#000000;dashed=1;" parent="1" source="sQQmF4ldZeJKrUhW-fq7-131" edge="1">
@@ -434,7 +434,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQQmF4ldZeJKrUhW-fq7-133" value="#* id&#xa;* título&#xa;o título original&#xa;o imágen&#xa;* subgénero narrativo&#xa;* tipo&#xa;* tema principal&#xa;* sinopsis&#xa;o páginas&#xa;o año de publicación de primera edición&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="sQQmF4ldZeJKrUhW-fq7-131" vertex="1">
+        <mxCell id="sQQmF4ldZeJKrUhW-fq7-133" value="#* id&#xa;* título&#xa;o título original&#xa;o imágen&#xa;* subgénero narrativo&#xa;* tipo&#xa;* tema principal&#xa;* sinopsis&#xa;* páginas&#xa;o año de publicación de primera edición&#xa;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="sQQmF4ldZeJKrUhW-fq7-131" vertex="1">
           <mxGeometry y="22" width="240" height="158" as="geometry"/>
         </mxCell>
         <mxCell id="sQQmF4ldZeJKrUhW-fq7-134" value="" style="endArrow=none;html=1;strokeColor=#000000;edgeStyle=orthogonalEdgeStyle;startArrow=ERoneToMany;startFill=0;" parent="1" source="yskIC6jVjKpPpN66km2W-1" edge="1">
