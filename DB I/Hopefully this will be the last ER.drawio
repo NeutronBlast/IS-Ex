@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-05T02:51:48.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="h2MT6u4QJmt4SsleuWY-" version="12.2.0" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-05T03:10:43.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0" etag="nszWp4LTGPoK4P4JKSPr" version="12.2.0" type="github" pages="1">
   <diagram id="DlH3Y_NX8wnxPJ1CbBNf" name="Page-1">
     <mxGraphModel dx="1874" dy="2761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
         <mxCell id="UAHOsp1mP3vzKwPEXrRI-14" value="P_HP_L (Personaje_Presentación_Lector)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=22;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="-1170" width="330" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="UAHOsp1mP3vzKwPEXrRI-22" value="o valoración personaje" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="UAHOsp1mP3vzKwPEXrRI-14" vertex="1">
+        <mxCell id="UAHOsp1mP3vzKwPEXrRI-22" value="o mejor personaje" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="UAHOsp1mP3vzKwPEXrRI-14" vertex="1">
           <mxGeometry y="22" width="330" height="58" as="geometry"/>
         </mxCell>
         <mxCell id="UAHOsp1mP3vzKwPEXrRI-23" value="&lt;div&gt;Está formado&lt;/div&gt;&lt;div&gt; por&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
