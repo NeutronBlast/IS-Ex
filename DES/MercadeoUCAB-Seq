@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T02:26:20.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" etag="63NFIaWnNv8rLEJpTKPX" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-02T02:26:53.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" etag="aHWvL-kO6EDGLDTQfFMj" version="14.6.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Crear Estudio">
     <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -562,7 +562,7 @@
         <mxCell id="UKy0LbsXRzWMarbRDWq_-135" value="&lt;font size=&quot;1&quot;&gt;questionEntity&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKy0LbsXRzWMarbRDWq_-1">
           <mxGeometry x="885" y="590" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UKy0LbsXRzWMarbRDWq_-140" value="&lt;font size=&quot;1&quot;&gt;insert(questionEntity)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKy0LbsXRzWMarbRDWq_-1">
+        <mxCell id="UKy0LbsXRzWMarbRDWq_-140" value="&lt;font size=&quot;1&quot;&gt;update(questionEntity)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKy0LbsXRzWMarbRDWq_-1">
           <mxGeometry x="885" y="650" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UKy0LbsXRzWMarbRDWq_-142" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="UKy0LbsXRzWMarbRDWq_-1" source="UKy0LbsXRzWMarbRDWq_-130">
