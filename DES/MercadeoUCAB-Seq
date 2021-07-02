@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T02:25:52.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" etag="RjdGoeZdCkv-VVBgA7p8" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-02T02:26:20.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" etag="63NFIaWnNv8rLEJpTKPX" version="14.6.9" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Crear Estudio">
     <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,7 +424,7 @@
         <mxCell id="UKy0LbsXRzWMarbRDWq_-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="UKy0LbsXRzWMarbRDWq_-1">
           <mxGeometry x="20" y="390" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UKy0LbsXRzWMarbRDWq_-105" value="Alt: Selecciona pregunta de pool" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKy0LbsXRzWMarbRDWq_-1">
+        <mxCell id="UKy0LbsXRzWMarbRDWq_-105" value="Alt: Selecciona pregunta de pool existente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UKy0LbsXRzWMarbRDWq_-1">
           <mxGeometry x="35" y="400" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UKy0LbsXRzWMarbRDWq_-108" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="UKy0LbsXRzWMarbRDWq_-1" source="UKy0LbsXRzWMarbRDWq_-106">
