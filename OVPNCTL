@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T00:26:44.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" version="14.8.4" etag="wSTUsfJ_jQc8qLy5fE8V" type="github"><diagram id="-mWRsI42akbqkzjQByj-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T00:38:31.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 OPR/76.0.4017.208" etag="4va5YSyfDXSYlsQt_gM2" version="14.8.4" type="github">
+  <diagram id="-mWRsI42akbqkzjQByj-" name="DD">
+    <mxGraphModel dx="997" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="flw3kol6Dcmju_zcMgSl-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="flw3kol6Dcmju_zcMgSl-1" target="flw3kol6Dcmju_zcMgSl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-1" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="270" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-2" value="Chromium Apllication Container" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-3" value="«app.js»&lt;br&gt;&lt;b&gt;Component&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="flw3kol6Dcmju_zcMgSl-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="flw3kol6Dcmju_zcMgSl-5" target="flw3kol6Dcmju_zcMgSl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-5" value="«main.js»&lt;br&gt;&lt;b&gt;Artifact&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="flw3kol6Dcmju_zcMgSl-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-8" value="&lt;span&gt;«device»&lt;/span&gt;&lt;br&gt;&lt;b&gt;Windows 10 pro&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-10" value="OpenVPN" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="195" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-13" value="«client.ovpn»&lt;br&gt;&lt;b&gt;Artifact&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="flw3kol6Dcmju_zcMgSl-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="flw3kol6Dcmju_zcMgSl-13">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
